@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.vcxproj", "{192541EC-2F35-49E6-A03C-9B5D140266CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{192541EC-2F35-49E6-A03C-9B5D140266CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{192541EC-2F35-49E6-A03C-9B5D140266CD}.Debug|Win32.Build.0 = Debug|Win32
+		{192541EC-2F35-49E6-A03C-9B5D140266CD}.Release|Win32.ActiveCfg = Release|Win32
+		{192541EC-2F35-49E6-A03C-9B5D140266CD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
